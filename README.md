@@ -6,5 +6,7 @@ A proof of concept for Dependency Injection in Python created for my talk on Rem
 
 Beware, code snippets are incomplete :)
 
+Slides can be found [here](https://bit.ly/remotepythonpizza).
+
 
 
